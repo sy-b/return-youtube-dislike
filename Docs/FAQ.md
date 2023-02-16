@@ -50,7 +50,7 @@ RYD uses the votes from its users to extrapolate the dislike count.
 
 This in video form
 
-[![IReturn YouTube Dislike Explained](https://yt-embed.herokuapp.com/embed?v=GSmmtv-0yYQ)](https://www.youtube.com/watch?v=GSmmtv-0yYQ)
+[![IReturn YouTube Dislike Explained](https://i.ytimg.com/vi/GSmmtv-0yYQ/hq720.jpg)](https://www.youtube.com/watch?v=GSmmtv-0yYQ)
 
 ---
 
