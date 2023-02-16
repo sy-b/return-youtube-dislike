@@ -117,7 +117,7 @@ If it does, find the extension(s) preventing RYD from working correctly and re-c
 >
 > **Solution:** Trust `returnyoutubedislikeapi.com` manually
 >
-> ![trust returnyoutubedislikeapi.com manually](https://cdn.discordapp.com/attachments/821116437720334397/929814357708247060/unknown.png)
+> ![trust returnyoutubedislikeapi.com manually](./conflict_scriptSafe.png)
 
 <br>
 
@@ -125,7 +125,7 @@ If it does, find the extension(s) preventing RYD from working correctly and re-c
 >
 > **Solution:** Allow XHR for `returnyoutubedislikeapi.com` manually
 >
-> ![Allow XHR for `returnyoutubedislikeapi.com` manually](https://media.discordapp.net/attachments/821116437720334397/929813724238336141/unknown.png)
+> ![Allow XHR for `returnyoutubedislikeapi.com` manually](./conflict_umatrix.png)
 
 <br>
 
